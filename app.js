@@ -26,9 +26,7 @@ mongoose.connect(process.env.DBURI, { useNewUrlParser: true, useUnifiedTopology:
   
 const port = 3000 || process.env.PORT
 
-app.listen(port,()=>{
-    console.log(`server running in port'${port}`)
-})
+app.listen( app.listen(port))
 
 // routes
 app.get("*",checkUser)
