@@ -15,7 +15,7 @@ dotenv.config()
 app.use(express.static('public'));
 app.use(express.json())
 app.use(cookieParser())
-
+app.use("./public/favicon.png")
 //allow cross origin requests 
 app.use(cors())
 // view engine
