@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> A Smoothie Website that uses jwt(json web token) to authenticate its users and then allow only authenticated users to be able to shop in the website 
+> An E-commerce Website that uses jwt(json web token) to authenticate its users and then allow only authenticated users to be able to shop in the website 
 
 ## Author
 
