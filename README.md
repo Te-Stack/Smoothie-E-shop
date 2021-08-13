@@ -12,7 +12,7 @@
 
 👤 **Quincy Oghenetejiri**
 
-- Website:coming soon
+- Website:[Quincy](https://quincyoghenetejiri.me)
 - Twitter: [@Quincyoghenex](https://twitter.com/Quincyoghenex)
 - Github: [@Te-Stack](https://github.com/Te-Stack)
 - LinkedIn: [@Quincy-Oghenetejiri](https://linkedin.com/in/quincy-oghenetejiri)
